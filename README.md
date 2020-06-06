@@ -1,6 +1,6 @@
 # indo_corona_gmaps
 
-![preview](https://i.imgur.com/MFqlHbY.png)
+![preview](https://i.imgur.com/DoAFZrA.jpg)
 
 API: 
 
