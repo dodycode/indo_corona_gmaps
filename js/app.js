@@ -24,6 +24,10 @@ function initMap() {
     console.log(markers);
 
     visualizeMap(markers);
+  })
+  .catch((error) => {
+    alert('Gagal mengambil data API! silahkan hubungi pihak admin!');
+    console.error('Error:', error);
   });
 }
 
